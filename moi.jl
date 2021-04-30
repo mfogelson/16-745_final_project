@@ -1,9 +1,11 @@
 function MOI.eval_objective(x)
-    eval_f(x)
+    cost(x)
 end
 
 function MOI.eval_objective_gradient(prob::OrbitNLP, grad_f, x)
-    grad_f!(prob, grad_f, x)
+#     grad_f!(prob, grad_f, x)
+    ForwardDiff.gradient!(grad_f,cost,x)
+
     return nothing
 end
 
