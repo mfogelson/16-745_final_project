@@ -41,7 +41,7 @@ with the following model parameters:
 * $r$: distance to earth center
 * $u$: control of ion thruster
 
-<img src="RK4.png" alt="drawing" width="200"/> <img src="RK8.png" alt="drawing" width="217"/>
+<img src="RK4_comp.png" alt="drawing" width="200"/> <img src="RK8_comp.png" alt="drawing" width="217"/>
 
 
 ### Optimization: 
