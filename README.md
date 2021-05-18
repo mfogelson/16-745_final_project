@@ -22,6 +22,7 @@ License: MIT
 <img src="20orbit.png" alt="drawing" width="200"/> <img src="40.png" alt="drawing" width="217"/>
 
 <img src="20.gif" alt="drawing" width="400"/> 
+<img src="tmp.gif" alt="drawing" width="400"/> 
 
 ## Description
 This project was a final project completed as part of the 2021 Spring Semester of **16-745: Optimal Control for Robotics** at Carnegie Mellon Unviersity. 
