@@ -17,8 +17,11 @@ License: MIT
 [Final Report](https://www.overleaf.com/read/zsczwjzgqwck)
 
 ## Pretty Plots
-![alt](OOP2IP1)
+<img src="OOP2IP_1.png" alt="drawing" width="200"/> <img src="OOP2IP_32.png" alt="drawing" width="217"/>
 
+<img src="20orbit.png" alt="drawing" width="200"/> <img src="40.png" alt="drawing" width="217"/>
+
+<img src="20.gif" alt="drawing" width="400"/> 
 
 ## Description
 This project was a final project completed as part of the 2021 Spring Semester of **16-745: Optimal Control for Robotics** at Carnegie Mellon Unviersity. 
@@ -37,6 +40,9 @@ with the following model parameters:
 * $\mu$: Gravitational Parameter = 63781
 * $r$: distance to earth center
 * $u$: control of ion thruster
+
+<img src="RK4.png" alt="drawing" width="200"/> <img src="RK8.png" alt="drawing" width="217"/>
+
 
 ### Optimization: 
 \begin{equation}
@@ -65,6 +71,3 @@ with the following model parameters:
 12. JLD
 13. MathOptInterface
 14. Printf
-
-## Files
-1. 16745_Final_Project.ipynb: This is the main project notebook 
