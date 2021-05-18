@@ -16,6 +16,10 @@ License: MIT
 
 [Final Report](https://www.overleaf.com/read/zsczwjzgqwck)
 
+## Pretty Plots
+![alt](OOP2IP1)
+
+
 ## Description
 This project was a final project completed as part of the 2021 Spring Semester of **16-745: Optimal Control for Robotics** at Carnegie Mellon Unviersity. 
 
